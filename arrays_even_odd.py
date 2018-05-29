@@ -40,3 +40,7 @@ bring_even_front(rays)
 
 print(rays)
 
+# In[17]:
+
+
+rays = [6, 6, 5, 3, 5, 1, 3]
